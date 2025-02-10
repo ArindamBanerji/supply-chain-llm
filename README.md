@@ -1,4 +1,4 @@
-# SAP Test Harness MVP 0.1
+# SAP Test Harness MVP 0.15
 
 ## Overview
 A test harness that simulates SAP API behavior for P2P (Procure-to-Pay) operations, focusing on material management and procurement processes. Built for MVP 0.1, it provides basic functionality for testing without requiring an actual SAP system.
